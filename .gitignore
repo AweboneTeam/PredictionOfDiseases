@@ -1,0 +1,33 @@
+# Environments
+*baidu_cr/
+*venv/
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data
+*.csv
+*.txt
+*.json
+data/cabspottingdata_s
+data/**/*.csv
+data/*/*.csv
+
+# Distribution
+build/
+.Python
+dist/
+wheels
+.eggs/
+*.egg-info
+
+#PyCharm
+.idea
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# mypy
+.Ds_Store
