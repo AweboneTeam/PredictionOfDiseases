@@ -8,7 +8,7 @@
 Train data download address: http://www.ikcest.org/bigdata2020
 
 #### Installation
-1. Create virtual environment python3 -m venv baidu_diseases
+1. Create virtual environment python3 -m venv venv
 2. install `poetry and pre-commit`
     - `(venv) pip install poetry`
     - `poetry config virtualenvs.create false`
